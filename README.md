@@ -1,1 +1,1 @@
-# destroyVR
+# 初めてのHTCVive開発プロジェクトです
